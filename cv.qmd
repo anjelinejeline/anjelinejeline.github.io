@@ -1,0 +1,54 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Professional experience
+
+- **Postdoctoral Research Fellowship, Estación Biológica de Doñana (EBD-CSIC)**, Seville, ES— 2026
+Recipient of a Junta de Andalucía-funded postdoctoral research fellowship, awarded in 2026 with a score of 99/100, the highest score in her field. Appointment pending incorporation.
+
+- **Professor in Epidemiology (Thesis Director), Universidad Alfonso X el Sabio**, Madrid, ES | Appointment pending incorporation | Part-time position contrato fijo discontinuo: Thesis Director in Epidemiology (2026–2027) Supervising Master’s theses (Trabajos Fin de Grado) in epidemiology and applied statistics at the Faculty of Veterinary Medicine. The work will focus on guiding students through study design, data management, and the interpretation of epidemiological analyses, fostering critical thinking and methodological rigor in veterinary and public health research.
+
+- **Epidemiologist – Scientific Officer, European Commission – Joint Research Centre**, Ispra, IT / Seville, ES | 16/11/2023–15/10/2024 (Ispra), 16/10/2024–16/11/2026 (Seville) | Lead research in Assessing infectious disease outbreaks with Pandemic and Epidemic riSk (APES) project on zoonotic disease spillover, including developing high-resolution global datasets integrating health, environmental & socio-economic variables, analysing drivers of infectious disease emergence linked to climate, land use, biodiversity & mobility.
+
+- **Professor in Epidemiology (Thesis Director), Universidad Alfonso X el Sabio**, Madrid, ES | 01/02/2026-31/07/2026 | Part-time position contrato fijo discontinuo: Thesis Director in Epidemiology (2025–2026) Supervising Master’s theses (Trabajos Fin de Grado) in epidemiology and applied statistics at the Faculty of Veterinary Medicine. The work focused on guiding students through study design, data management, and the interpretation of epidemiological analyses, fostering critical thinking and methodological rigor in veterinary and public health research.
+
+- **Associate Professor in Statistics, Universidad Alfonso X el Sabio, Madrid**, ES | 01/08/2024–31/01/2025 | Part-time position contrato fijo discontinuo: Teach statistical foundations to veterinary sciences students, foster application of statistical analysis as a professional tool. 
+
+- **Epidemiologist – Junior Consultant / Consultant**, Ausvet Europe, Lyon, FR | 20/04/2022–31/05/2023 (Junior Consultant), 01/06/2023–25/10/2023 (Consultant) | Provided epidemiological services & advanced data analyses to governments, industry bodies & international agencies.
+
+- **Visiting Researcher, National Veterinary Institute**, Uppsala, SE | 09/05/2022–20/05/2022 | Applied scenario tree modelling to enzootic bovine leukosis (EBL) control programme data in Europe.
+
+- **Circular Health Fellow, One Health Center of Excellence**, University of Florida, Gainesville, USA | 03/05/2021–22/06/2022 | Led research on the risk of introduction of african swine fever virus (ASFV) during COVID-19 & thermostable vaccines; contributed to SARS-CoV-2 panzootic potential project.
+
+- **Wildlife Technician, Alpine Hunting District CA CN1**, Paesana, IT | 25/09/2019–22/12/2019 | Conducted biometric & sanitary inspections on hunted animals.
+
+- **Visiting Researcher, Universidad de Murcia**, Murcia, ES | 02/05/2019–19/07/2019 | Collected and analyzed parasitological samples from wild carnivores; performed epidemiological & spatial analysis.
+
+- **Product Support Officer, Avia-GIS**, Zoersel, BE | 17/09/2018–18/01/2019 | Delivered training & technical support for VECMAP risk mapping software in human, veterinary & plant health contexts.
+
+- **Intern, EuFMD – Food and Agriculture Organization of the United Nations (FAO)**, Rome, IT | 01/03/2018–31/08/2018 | Produced reports on foot-and-mouth disease (FMD) presence & surveillance; supported training events & cross-border disease monitoring.
+
+- **Professional Experience at Oniris-University of Nantes for the OQUALIM association**, Nantes, FR| 02/10/2017 -28/02/2018. Worked on the project "Evaluation and characterization of the impact of Listeria monocytogenes on animal feed and on feed manufacturing process". Listeria monocytogenes is responsible for listeriosis infection in humans and animals, often caused by the ingestion of contaminated food, and is therefore classified as a foodborne disease. Evaluated the risk of contamination of cattle feed and the consequent impact on public health. Evaluated analytical methods for the detection of the pathogen in feed and animal-derived food to ensure food safety and integrity. 
+
+- **Intern, Faculty of Veterinary Medicine University of Bari Aldo Moro**, Valenzano, IT | 26/07/2017-17/09/2017| Participated in various laboratory activities, including the isolation and identification of pathogenic agents, with particular attention to zoonotic agents that transmit from animals to humans. Performed diagnostic tests and analyzed biological samples. Managed the analysis and interpretation of epidemiological data, dealing with data collection and management, as well as statistical analysis and interpretation of results. 
+
+## Education
+
+- **Máster en Inteligencia Artificial y Big Data (Master in Artificial Intelligence and Big Data), Universidad Complutense de Madrid (UCM), Madrid**, ES | 20/10/2025 – 17/09/2026 | Advanced training in Data Analysis and Artificial Intelligence applied to Business:  Python programming; SQL and NoSQL databases; Linux and version control with Git; Business Intelligence with Tableau; Statistics; Data mining and predictive modelling; Machine Learning; Artificial Intelligence and Deep Learning; Advanced data visualization; Cloud-based Big Data technologies; Spark; Model deployment; Applied Data Science for business. 
+
+- **Postgraduate Course, Applied Economic Modelling for Veterinary Sciences, Utrecht University**, NL | 13/11/2023–22/12/2023 | Training in partial budgeting, cost-benefit analysis, decision analysis, advanced modelling.
+
+- **Ph.D. Animal Health & Zoonosis, University of Turin / University of Bari**, IT | 01/11/2019–30/09/2022 (awarded on 31/01/2023) | Thesis: Crimean–Congo hemorrhagic fever (CCHF) as an emerging public health threat.
+
+- **Resident in Population Medicine, The European College of Veterinary Public Health (ECVPH)** | 01/12/2019–01/12/2023 (Diplomate 18/06/2024) | Specialist training in epidemiology & population medicine.
+
+- **Postgraduate Course, Spatial Epidemiology, Royal Veterinary College**, UK | 04/05/2018–31/08/2018 | Investigation of spatial patterns of animal disease.
+
+- **Specialization School, Infectious Diseases, Prophylaxis & Veterinary Policy, University of Bari**, IT | 15/01/2018–24/07/2023 | *Graduated cum laude* | Thesis: Epidemic intelligence for CCHF risk mapping.
+
+- **Master of Second Level (One Health), MANIMAL: From Animal to Man: Health & Food Risks, École nationale vétérinaire, agroalimentaire et de l'alimentation de Nantes-Atlantique (Oniris)**, FR | 18/09/2017–29/08/2018 | Thesis: FMD outbreaks & control in Maghreb.
+
+- **State Exam, Veterinary Surgeon, University of Bari**, IT | 15/11/2017 | Professional qualification.
+
+- **Doctor in Veterinary Medicine, University of Bari**, IT | 04/10/2012–25/07/2017 | *Graduated cum laude* | Thesis: Coxiella burnetii prevalence in dairy cattle.

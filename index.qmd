@@ -1,0 +1,24 @@
+---
+title: "About Me"
+---
+:::: {.columns}
+
+::: {.column width="30%"}
+
+<img src="img/angela.jpg" alt="Angela Fanelli" class="profile-photo">
+
+:::
+
+::: {.column width="70%"}
+
+# Angela Fanelli
+
+**DVM · MSc One Health · MSc Big Data & AI · ECVPH Diplomate in Population Medicine**
+
+I am an epidemiologist specialized in animal and public health, with expertise in big data analytics and data-driven approaches to epidemiological research. My work focuses on integrating advanced statistical modelling, machine learning techniques, and large-scale data processing to strengthen disease early warning systems, improve risk assessment, and support evidence-based decision-making.
+
+Get in touch: [Email](angelafanelli6894@gmail.com)
+
+:::
+
+::::
